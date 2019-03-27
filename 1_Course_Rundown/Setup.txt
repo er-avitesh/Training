@@ -1,0 +1,19 @@
+1)	Install Following softwares
+	a)	Google Chrome
+	b)	Oracle JDK 8x
+		Test it using java -version
+	c)	Gradle 4.4
+		Test it using gradle -version
+	d)	Notepad++
+	e)	Git Bash
+		Test using git help
+	f)	Maven
+		Test using mvn -version
+	g)	CF CLI
+		https://cli.run.pivotal.io/stable?release=windows64&source=github 
+		Test using cf -v
+
+2) Account Creation
+	a)	GITHUB Account
+	b)	Pivotal Web Service Account
+		https://run.pivotal.io/ , it may ask credit card details however no charge will be there if you deactivate it withing one month.

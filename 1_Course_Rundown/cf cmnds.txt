@@ -1,0 +1,23 @@
+CF CLI install
+
+cf login -a <ENDPOINT> -u <USEREMAIL> -p <PWD>
+cf push <APPNAME> -p <JAR/WAR PATH> --random-route
+cf target -o <DEST_ORG>
+cf target -s <DEST_SPACE>
+
+cf apps -in org and in space
+cf scale <APP_NAME>
+
+
+
+
+
+GIT COMMANDS
+
+git init - intialize local repo
+git add * - stage files
+git commit -m <comment> - commit staged files to local repo
+git push <central_repo_variable_name> <branch_name> - push local repo to central repo
+git remote add <variable_name> <central url> - local repo connect to central repo
+git branch <branch_name> - create branch
+git checkout <branch_name> - switch branch
