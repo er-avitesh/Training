@@ -52,14 +52,13 @@ public class MainController {
 
 -  Create manifest file named "manifest.yml" file
 ~~~~
- - -
-applications:
-- name: {NAME}App
- instances: 1
- cpu: 1
- memory: 756M
- disk: 1GB
- path: target/<APP_WAR>
+
+ applications:
+- name: AviteshApp
+  disk_quota: 1G
+  instances: 1
+  memory: 1G
+  path: build/libs/AviteshApplication-0.0.1.war
 ~~~~
 
 
@@ -93,14 +92,12 @@ Now We will make changes in that and deploy that with no downtime.
 - Update your /who message to "I am GREEN instance."
 ### 3. Create another manifest file named "manifestGreen.yml" file
 ~~~~
- - -
 applications:
-- name: Team[X][Maven/Grade]GreenApp
- instances: 1
- cpu: 1
- memory: 756M
- disk: 1GB
- path: target/<APP_WAR>
+- name: AviteshAppGreen
+  disk_quota: 1G
+  instances: 1
+  memory: 1G
+  path: build/libs/AviteshApplication-0.0.1.war
 ~~~~
 - use the Maven or Gradle commands you have learned to package your green application
 ### 5. Push the Green version of your app into PCF:
