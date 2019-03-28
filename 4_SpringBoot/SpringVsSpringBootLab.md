@@ -302,5 +302,5 @@ $ mvn spring-boot:run
 ~~~
 Navigate to http://localhost:8080 and you will see "Hello: Spring Boot!".
 
-By default the <b>Spring Initializr</b> generates a <b>Maven</b> project and the generated <b>ZIP</b> file comes with a <b>Maven Wrapper</b>, this means that you don't need to download or setup <b>Maven</b>.
+By default the <b>Spring Initializr</b> generates a <b>Maven</b> project and the generated <b>ZIP</b> file comes with a <b>Maven Wrapper</b>, this means that you don't need to download or setup <b>Maven</b>.</br>
 <b>CONGRATULATIONS!</b> You have created a Spring Boot Web application using the <b>Spring Initializr!</b> Notice that the Spring Boot application requires less setup because of the opions that Spring Boot provides.
