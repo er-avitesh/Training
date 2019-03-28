@@ -9,7 +9,14 @@ cf apps -in org and in space
 cf scale <APP_NAME>
 
 
+cf logs <APP_NAME> - tail your logs
+cf logs <APP_NAME> --recent
+cf events <APP_NAME>
 
+cf map-route AviteshAppGreen cfapps.io --hostname aviteshapp
+cf unmap-route AviteshApp cfapps.io --hostname aviteshapp
+cf create-route routename cfapps.io
+cf delete-route routename cfapps.io
 
 
 GIT COMMANDS
