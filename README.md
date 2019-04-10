@@ -1,4 +1,4 @@
-# Revision Plan till Section 10
+# Revision Plan Flow
 
 ## [Course Rundown] (https://github.com/er-avitesh/Training/blob/master/1_Course_Rundown/1_Course_Rundown.pptx)
 
@@ -53,6 +53,12 @@
 ## [LAB: Route Service] ()
 
 ## [LAB: Blue Green Deployment] (https://github.com/er-avitesh/Training/blob/master/10_CD%20With%20PCF/CD_With%20PCF.md)
+
+## [Buildpack] (https://github.com/er-avitesh/Training/blob/master/11_Buildpack/11_Buildpack.pptx)
+
+## [VIDEO: Buildpack Recap] (https://github.com/er-avitesh/Training/blob/master/11_Buildpack/Buildpack%20Recap.mp4)
+
+## [LAB: Buildpack] (https://github.com/er-avitesh/Training/blob/master/11_Buildpack/README.md)
 
 ## Everyone has to write atleast 50 words about below components in a notepad or word or ppt and share.
 -  Router
