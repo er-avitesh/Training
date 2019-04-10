@@ -30,7 +30,7 @@
 
 ## [Maven Vs Gradle] (https://github.com/er-avitesh/Training/blob/master/7_MavenVsGradle/7_MavenVsGradle.pptx)
 
-## [LAB: Gradle App] ()
+## [LAB: Gradle App] (https://github.com/er-avitesh/Training/blob/master/7_MavenVsGradle/Readme.md)
 
 ## [ERT] (https://github.com/er-avitesh/Training/blob/master/8_ERT/8_ERT.pptx)
 
@@ -40,7 +40,7 @@
 
 ## [VIDEO: Log Drain] (https://github.com/er-avitesh/Training/blob/master/9_Logging/Log%20Drain%20-%20(PCF-Dev).mp4)
 
-## [LAB: Logging] ()
+## [LAB: Logging] (https://github.com/er-avitesh/Training/blob/master/9_Logging/Logging.md)
 
 ## [VIDEO: Continous Delivery] (https://github.com/er-avitesh/Training/blob/master/10_CD%20With%20PCF/Continuous%20Delivery%20-%20(PCF-Dev).mp4)
 
